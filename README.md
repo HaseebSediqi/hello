@@ -1,8 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
+  - Hello Microverse Project
 
-> One paragraph statement about the project.
+> This is the very first project we are trying to build.
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,22 +11,20 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- VS Code
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://haseebsediqi.github.io/HelloMiroverse/)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
+first click on the above "Live Demo Link". Once the link is open, click on the green "code" button on the top right. then click on download.
 
 ### Prerequisites
 
@@ -43,17 +42,10 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Haseeb Sediqi**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](git@github.com:HaseebSediqi/HelloMiroverse.git)
+- LinkedIn: [LinkedIn](http://linkedin.com/in/haseeb-sediqi)
 
 ## 🤝 Contributing
 
